@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel!
 - 👀 I’m primarily into the sysadmin-y sorts of pursuits (project summaries available on my profile)
-- 🌱 I have a few scripting projects under my belt (samples available on my profile), and am currently learning C/C++ (muttered cursing about pointers decidedly *not* available on my profile).
-- 💞️ I'm using GitHub primarily as a portfolio of sorts, I don't really expect any of the things hosted here to be useful in a turn-key fashion.
+- 🌱 I have a few scripting projects under my belt (samples available on my profile), and am currently learning C/C++/C#.
+- 💞️ I'm using GitHub primarily as a portfolio, I don't really expect any of the things hosted here to be useful in a turn-key fashion.
 - 📫 You can reach me at danielrhyshaynes@gmail.com (self-hosted email pending).
 
 <!---
